@@ -62,7 +62,7 @@ python bot.py
 
 ## 🧑‍💻 Автор
 
-**David Korish**  
+**David Koresh**  
 📎 [GitHub профіль](https://github.com/Davidqwer123)
 
 ---
